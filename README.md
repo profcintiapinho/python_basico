@@ -9,3 +9,5 @@ http://ocubo.cpscetec.com.br/laboratorios.php
 <p>Realizar ensaios que envolvam a Inteligência Artificial.</p>
 
 <h4>Aqui você terá uma introdução a linguagem PYTHON, Ciências de Dados e uma nocão de Processamento de Linguagem Natural</h4>
+
+<h2>Material Extra</h2>
