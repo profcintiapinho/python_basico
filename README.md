@@ -11,3 +11,9 @@ http://ocubo.cpscetec.com.br/laboratorios.php
 <h4>Aqui você terá uma introdução a linguagem PYTHON, Ciências de Dados e uma nocão de Processamento de Linguagem Natural</h4>
 
 <h2>Material Extra</h2>
+<h3>Como Criar uma Base de Dados por pesquisa no Google forms</h3>
+<h4>Segue Tutorial</h4>
+## https://agirweb.com.br/passos-para-criar-uma-base-de-dados-por-google-forms/
+<h4>Caminho do Notebook para converter XLSx em csv</h4>
+
+
