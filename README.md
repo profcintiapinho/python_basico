@@ -17,4 +17,10 @@ https://agirweb.com.br/passos-para-criar-uma-base-de-dados-por-google-forms/
 <h4>Caminho do Notebook para converter XLSx em csv</h4>
 https://github.com/profcintiapinho/python_basico/blob/main/Aula_Extra_Converter_xls_para_csv.ipynb
 
+<h4>Nuvem de Palavras geradas pelo Google Forms</h4>
+https://github.com/profcintiapinho/python_basico/blob/main/Aula_Extra_Converter_xls_para_csv.ipynb
+
+
+
+
 
