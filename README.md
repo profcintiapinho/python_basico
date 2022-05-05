@@ -13,7 +13,8 @@ http://ocubo.cpscetec.com.br/laboratorios.php
 <h2>Material Extra</h2>
 <h3>Como Criar uma Base de Dados por pesquisa no Google forms</h3>
 <h4>Segue Tutorial</h4>
-## https://agirweb.com.br/passos-para-criar-uma-base-de-dados-por-google-forms/
+##https://agirweb.com.br/passos-para-criar-uma-base-de-dados-por-google-forms/
 <h4>Caminho do Notebook para converter XLSx em csv</h4>
+##https://github.com/profcintiapinho/python_basico/blob/main/Aula_Extra_Converter_xls_para_csv.ipynb
 
 
